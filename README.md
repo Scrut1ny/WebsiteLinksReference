@@ -9,6 +9,7 @@
   - [YTS.AM](https://yts.am/)
   - [YTS.AG](https://yts.ag/)
   - [YTS Proxies](https://ytsproxies.com/)
+- [EZTV](https://eztvx.to/)
 - [1337X](https://1337x.to/)
 - [Nyaa](https://nyaa.si/)
 - [TorrentGalaxy](https://torrentgalaxy.to/)
