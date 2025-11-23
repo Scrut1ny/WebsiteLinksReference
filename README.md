@@ -4,8 +4,8 @@
 <summary>Expand for links...</summary>
 
 ## Torrenting
-- [YTS.MX](https://yts.mx/)
-  - [YTS.LT](https://yts.lt/)
+- [YTS.LT](https://yts.lt/)
+  - [YTS.GG](https://yts.gg/)
   - [YTS.AM](https://yts.am/)
   - [YTS.AG](https://yts.ag/)
   - [YTS Proxies](https://ytsproxies.com/)
