@@ -4,6 +4,7 @@
 <summary>Expand for links...</summary>
 
 ## Torrenting
+- [TF (TorrentFreak)](https://torrentfreak.com/)
 - [YTS.LT](https://yts.lt/)
   - [YTS.GG](https://yts.gg/)
   - [YTS.AM](https://yts.am/)
