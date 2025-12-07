@@ -19,7 +19,8 @@
 
 </details>
 
-
+## Anime
+- [h!anime](https://hianime.to/)
 
 ---
 
