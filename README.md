@@ -19,8 +19,15 @@
 
 </details>
 
+<details>
+<summary>Expand for links...</summary>
+
 ## Anime
 - [h!anime](https://hianime.to/)
+
+</details>
+
+
 
 ---
 
