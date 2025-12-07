@@ -17,11 +17,6 @@
 - [TorrentGalaxy](https://torrentgalaxy.to/)
 - [The Pirate Bay](https://thepiratebay.org/index.html)
 
-</details>
-
-<details>
-<summary>Expand for links...</summary>
-
 ## Anime
 - [h!anime](https://hianime.to/)
 
