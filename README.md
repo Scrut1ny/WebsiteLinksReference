@@ -3,6 +3,11 @@
 <details>
 <summary>Expand for links...</summary>
 
+## Keygen / License Generators / Serials
+- [SerialShack](https://www.serialshack.com/)
+- [Smart Serials](https://smartserials.com/)
+- [IDA Pro Keygen](https://auth.lol/ida/keygen)
+
 ## Torrenting
 - [TF (TorrentFreak)](https://torrentfreak.com/)
 - [YTS.LT](https://yts.lt/)
