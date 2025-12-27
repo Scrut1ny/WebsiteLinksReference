@@ -3,7 +3,7 @@
 <details>
 <summary>Expand for links...</summary>
 
-## Keygen / License Generators / Serials
+## Serials & Key/License Generators
 - [SerialShack](https://www.serialshack.com/)
 - [Smart Serials](https://smartserials.com/)
 - [IDA Pro Keygen](https://auth.lol/ida/keygen)
