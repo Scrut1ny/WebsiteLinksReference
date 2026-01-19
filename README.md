@@ -13,11 +13,12 @@
 
 ## Torrenting
 - [TF (TorrentFreak)](https://torrentfreak.com/)
-- [YTS.LT](https://yts.lt/)
+- [YTS.BZ](https://yts.bz/)
   - [YTS.GG](https://yts.gg/)
   - [YTS.AM](https://yts.am/)
   - [YTS.AG](https://yts.ag/)
   - [YTS Proxies](https://ytsproxies.com/)
+  - [Telegram Updates](https://t.me/s/ytsmx_updates)
 - [EZTV](https://eztvx.to/)
   - [eztvstatus.org](https://eztvstatus.org/)
 - [1337X](https://1337x.to/)
