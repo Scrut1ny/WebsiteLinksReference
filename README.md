@@ -8,6 +8,7 @@
 
 ## Serials & Key/License Generators
 - [SerialShack](https://www.serialshack.com/)
+- [Crack Serial Codes](https://www.crackserialcodes.com/)
 - [Smart Serials](https://smartserials.com/)
 - [IDA Pro Keygen](https://auth.lol/ida/keygen)
 
