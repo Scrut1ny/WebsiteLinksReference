@@ -3,6 +3,9 @@
 <details>
 <summary>Expand for links...</summary>
 
+## Directory Websites
+- [Monerica](https://monerica.com/)
+
 ## Serials & Key/License Generators
 - [SerialShack](https://www.serialshack.com/)
 - [Smart Serials](https://smartserials.com/)
